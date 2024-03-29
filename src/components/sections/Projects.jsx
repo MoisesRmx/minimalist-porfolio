@@ -17,7 +17,7 @@ export default function Projects() {
                         {name}
                       </a>
                       {
-                        isActive && <span>&bull;</span>
+                        isActive && <span> &bull;</span>
                       }
                     </h3>
                     <p>{description}</p>
