@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "Moises Roberto",
+    "label": "Full Stack Developer con más de 2 años de experiencia",
+    "image": "https://avatars.githubusercontent.com/u/92660734?s=400&u=97ebc61c67c5041d635f039cabb4ed88f190e961&v=4",
+    "email": "moisesrobertosanchezperez@gmail.com",
+    "phone": "+52 2211558571",
+    "url": null,
+    "summary": "+2 años de experiencia como Desarrollador Web. Vivo en Mexico. Y estoy en busca de mi primer experiencia laboral en el area del Desarrollo Web. Me gustan las motos XD",
+    "location": {
+      "address": "Benito Juarez",
+      "postalCode": "90970",
+      "city": "San Pablo del Monte",
+      "countryCode": "ES",
+      "region": "Mexico"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "MoisesRmx",
+        "url": "https://github.com/MoisesRmx"
+      }
+    ]
+  },
+  "work": [
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Novato",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Novato",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Novato",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "ReactJs",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Novato"
+    }
+  ],
+  "interests": [{
+    "name": "The computers",
+    "keywords": [
+      "Computers",
+      "PC's",
+      "Laptops"
+    ]
+  }],
+  "projects": [
+    {
+      "name": "Chuck Phrase",
+      "isActive": true,
+      "description": "Es un generador de frases aleatorias de Chuck Norris",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://chuck-phrase.vercel.app/"
+    }
+  ]
+}
