@@ -106,10 +106,20 @@
       "isActive": true,
       "description": "Es un generador de frases aleatorias de Chuck Norris",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "chuck norris",
+        "frases de chuck"
       ],
       "url": "https://chuck-phrase.vercel.app/"
+    },
+    {
+      "name": "Task Manager",
+      "isActive": true,
+      "description": "Si tienes una tarea, guardalo, así no se te olvida :)",
+      "highlights": [
+        "task manager",
+        "gestor de tareas"
+      ],
+      "url": "https://task-manager-reactjs.vercel.app/"
     }
   ]
 }

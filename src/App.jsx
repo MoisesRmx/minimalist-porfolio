@@ -18,7 +18,7 @@ export default function App() {
         <Projects />
         <Skills />
       </main>
-      <KeyboardManager />
+      {/* <KeyboardManager /> */}
     </>
   )
 }

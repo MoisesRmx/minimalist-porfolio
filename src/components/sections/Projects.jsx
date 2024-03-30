@@ -13,7 +13,7 @@ export default function Projects() {
                 <article>
                   <header>
                     <h3>
-                      <a href={url} title={`Ver el proyecto ${name}`}>
+                      <a href={url} title={`Ver el proyecto ${name}`} target='_blank'>
                         {name}
                       </a>
                       {
