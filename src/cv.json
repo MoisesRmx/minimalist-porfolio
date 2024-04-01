@@ -120,6 +120,29 @@
         "gestor de tareas"
       ],
       "url": "https://task-manager-reactjs.vercel.app/"
+    },
+    {
+      "name": "Tic Tac Toe | React",
+      "isActive": true,
+      "description": "Prepárate para una emocionante batalla de estrategia y destreza en \"Tic-Tac-Toe\".",
+      "highlights": [
+        "estrategia",
+        "juego de mesa",
+        "clásico",
+        "desafío"
+      ],
+      "url": "https://tic-tac-toe-react-hazel.vercel.app/"
+    },
+    {
+      "name": "Blife Shopping Design",
+      "isActive": true,
+      "description": "Es una pagina de prueba de una tienda que vende productos de para la salud, Vitaminas, Suplementos, etc",
+      "highlights": [
+        "page shopping",
+        "design",
+        "static"
+      ],
+      "url": "https://blife-test-beta.vercel.app/promociones"
     }
   ]
 }
