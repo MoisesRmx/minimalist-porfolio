@@ -1,10 +1,10 @@
-.skills ul {
+.habilidades ul {
   display: inline-flex;
   gap: 8px;
   flex-wrap: wrap;
 }
 
-.skills li {
+.habilidades li {
   border-radius: 6px;
   background: #eee;
   color: #000;
