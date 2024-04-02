@@ -6,9 +6,15 @@ const { summary } = basics
 export default function About() {
   return (
     <Section title="About">
-      <p>
-        {summary}
-      </p>
+      {
+        summary.map(element => (
+          <p key={crypto.randomUUID()} >
+            {element}
+            <br />
+            <br />
+          </p>
+        ))
+      }
     </Section>
   )
 }

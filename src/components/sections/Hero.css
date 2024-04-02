@@ -1,16 +1,17 @@
 .container {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
+  /* background: blue; */
 }
 
 .container .info {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  padding-right: 32px;
 }
 
 .container h1 {
@@ -27,7 +28,8 @@
 .container img {
   aspect-ratio: 1 / 1;
   object-fit: cover;
-  width: 128px;
+  max-width: 150px;
+  width: 100%;
   border-radius: 16px;
 }
 

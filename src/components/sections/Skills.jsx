@@ -8,7 +8,7 @@ export default function Skills() {
       <ul>
         {
           skills.map(({ name, level }) => (
-            <li>
+            <li key={crypto.randomUUID()}>
               <span>{name} </span>
               <span>{level}</span>
             </li>

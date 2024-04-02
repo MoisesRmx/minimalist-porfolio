@@ -1,12 +1,15 @@
 {
   "basics": {
     "name": "Moises Roberto",
-    "label": "Full Stack Developer con más de 2 años de experiencia",
+    "label": "Full Stack Developer con más de +1 años de experiencia",
     "image": "https://avatars.githubusercontent.com/u/92660734?s=400&u=97ebc61c67c5041d635f039cabb4ed88f190e961&v=4",
     "email": "moisesrobertosanchezperez@gmail.com",
     "phone": "+52 2211558571",
     "url": null,
-    "summary": "+2 años de experiencia como Desarrollador Web. Vivo en Mexico. Y estoy en busca de mi primer experiencia laboral en el area del Desarrollo Web. Me gustan las motos XD",
+    "summary": ["Hooola, buenas soy Moises, un apasionado desarrollador web Front End. Con mas de un año de experiencia desarrollando proyectos personales, me gusta aumentar mi conocimiento en las tecnologías que ya conozco y poder aplicarlas para crear sititos web innovadores y fáciles de usar.",
+      "Ademas de mi experiencia tecnica, también valoro la colaboración y la comunicación efectiva. Disfruto trabajar en equipo y soy capaz de adaptarme a diferentes entornos de trabajo. Creo firmemente en el poder del trabajo en equipo para impulsar la innovación y alcanzar resultados excepcionales.",
+      "Si estás buscando un desarrollador web comprometido, y orientado a resultados para tu próximo proyecto, ¡estaré encantado de ser parte de tu equipo!"],
+    
     "location": {
       "address": "Benito Juarez",
       "postalCode": "90970",

@@ -9,7 +9,7 @@ export default function Projects() {
         {
           projects.map(({ url, description, highlights, name, isActive }) => {
             return (
-              <li>
+              <li key={crypto.randomUUID()}>
                 <article>
                   <header>
                     <h3>
@@ -24,7 +24,7 @@ export default function Projects() {
                   </header>
                   <footer>
                     {highlights.map((highlight) => {
-                      return <span>{highlight}</span>
+                      return <span key={crypto.randomUUID()}>{highlight}</span>
                     })}
                   </footer>
                 </article>
