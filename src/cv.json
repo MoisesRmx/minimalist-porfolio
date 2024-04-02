@@ -5,7 +5,7 @@
     "image": "https://avatars.githubusercontent.com/u/92660734?s=400&u=97ebc61c67c5041d635f039cabb4ed88f190e961&v=4",
     "email": "moisesrobertosanchezperez@gmail.com",
     "phone": "+52 2211558571",
-    "url": null,
+    "url": "https://moisesroberto.vercel.app/",
     "summary": ["Hooola, buenas soy Moises, un apasionado desarrollador web Front End. Con mas de un año de experiencia desarrollando proyectos personales, me gusta aumentar mi conocimiento en las tecnologías que ya conozco y poder aplicarlas para crear sititos web innovadores y fáciles de usar.",
       "Ademas de mi experiencia tecnica, también valoro la colaboración y la comunicación efectiva. Disfruto trabajar en equipo y soy capaz de adaptarme a diferentes entornos de trabajo. Creo firmemente en el poder del trabajo en equipo para impulsar la innovación y alcanzar resultados excepcionales.",
       "Si estás buscando un desarrollador web comprometido, y orientado a resultados para tu próximo proyecto, ¡estaré encantado de ser parte de tu equipo!"],
@@ -44,13 +44,13 @@
     },
     {
       "name": "JavaScript",
-      "level": "Medio",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "Node",
+      "name": "NodeJs",
       "level": "Medio",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
@@ -65,13 +65,13 @@
     },
     {
       "name": "GitHub",
-      "level": "Novato",
+      "level": "Medio",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
     },
     {
-      "name": "Next.js",
+      "name": "NextJs",
       "level": "Novato",
       "keywords": [
         "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
@@ -135,6 +135,21 @@
         "desafío"
       ],
       "url": "https://tic-tac-toe-react-hazel.vercel.app/"
+    },
+    {
+      "name": "Calculadora de Propinas | React",
+      "isActive": true,
+      "description": "La calculadora de propinas te ayuda a calcular la cantidad de propina que debes dejar en un restaurante o cualquier otro lugar. Solo tienes que ingresar la cuenta y ingresar el porcentaje de propina que quieres dejar, y este lo calcula. Tambien tiene la opcion de dividir la cuenta por si quieres que tus amigos o acompañantes pagen su parte.",
+      "highlights": [
+        "calculadora",
+        "propinas",
+        "restaurantes",
+        "herramienta de propinas",
+        "servicio al cliente",
+        "porcentade de propina",
+        "cálculo de total a pagar"
+      ],
+      "url": "https://calculadora-propinas-rho.vercel.app/"
     },
     {
       "name": "Blife Shopping Design",

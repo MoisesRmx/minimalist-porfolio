@@ -4,7 +4,7 @@ import './Skills.css'
 
 export default function Skills() {
   return (
-    <Section title="Skills">
+    <Section title="Habilidades">
       <ul>
         {
           skills.map(({ name, level }) => (

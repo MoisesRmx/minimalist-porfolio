@@ -5,7 +5,7 @@ const { summary } = basics
 
 export default function About() {
   return (
-    <Section title="About">
+    <Section title="Sobre mí">
       {
         summary.map(element => (
           <p key={crypto.randomUUID()} >

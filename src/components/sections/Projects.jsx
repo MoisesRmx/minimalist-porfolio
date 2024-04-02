@@ -4,7 +4,7 @@ import './Projects.css'
 
 export default function Projects() {
   return (
-    <Section title="Projects">
+    <Section title="Proyectos">
       <ul>
         {
           projects.map(({ url, description, highlights, name, isActive }) => {
