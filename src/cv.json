@@ -161,6 +161,17 @@
         "static"
       ],
       "url": "https://blife-test-beta.vercel.app/promociones"
+    },
+    {
+      "name": "Buscador de Peliculas | React",
+      "isActive": true,
+      "description": "Un simple buscador de peliculas :)",
+      "highlights": [
+        "duscador",
+        "peliculas",
+        "herramienta de busqueda"
+      ],
+      "url": "https://buscador-peliculas-two.vercel.app/"
     }
   ]
 }
