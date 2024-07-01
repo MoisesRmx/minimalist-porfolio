@@ -6,10 +6,11 @@
     "email": "moisesrobertosanchezperez@gmail.com",
     "phone": "+52 2211558571",
     "url": "https://moisesroberto.vercel.app/",
-    "summary": ["Hooola, buenas soy Moises, un apasionado desarrollador web Front End. Con mas de un año de experiencia desarrollando proyectos personales, me gusta aumentar mi conocimiento en las tecnologías que ya conozco y poder aplicarlas para crear sititos web innovadores y fáciles de usar.",
+    "summary": [
+      "Hooola, buenas soy Moises, un apasionado desarrollador web Front End. Con mas de un año de experiencia desarrollando proyectos personales, me gusta aumentar mi conocimiento en las tecnologías que ya conozco y poder aplicarlas para crear sititos web innovadores y fáciles de usar.",
       "Ademas de mi experiencia tecnica, también valoro la colaboración y la comunicación efectiva. Disfruto trabajar en equipo y soy capaz de adaptarme a diferentes entornos de trabajo. Creo firmemente en el poder del trabajo en equipo para impulsar la innovación y alcanzar resultados excepcionales.",
-      "Si estás buscando un desarrollador web comprometido, y orientado a resultados para tu próximo proyecto, ¡estaré encantado de ser parte de tu equipo!"],
-    
+      "Si estás buscando un desarrollador web comprometido, y orientado a resultados para tu próximo proyecto, ¡estaré encantado de ser parte de tu equipo!"
+    ],
     "location": {
       "address": "Benito Juarez",
       "postalCode": "90970",
@@ -25,63 +26,83 @@
       }
     ]
   },
-  "work": [
-  ],
+  "work": [],
   "skills": [
     {
       "name": "HTML",
       "level": "Medio",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Desarrollo Web",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Medio",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "NodeJs",
       "level": "Medio",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
       ]
     },
     {
       "name": "Git",
       "level": "Novato",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
       "level": "Medio",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "NextJs",
       "level": "Novato",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "ReactJs",
       "level": "Medio",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     }
   ],
@@ -95,14 +116,16 @@
       "fluency": "Novato"
     }
   ],
-  "interests": [{
-    "name": "The computers",
-    "keywords": [
-      "Computers",
-      "PC's",
-      "Laptops"
-    ]
-  }],
+  "interests": [
+    {
+      "name": "The computers",
+      "keywords": [
+        "Computers",
+        "PC's",
+        "Laptops"
+      ]
+    }
+  ],
   "projects": [
     {
       "name": "Chuck Phrase",
@@ -150,17 +173,6 @@
         "cálculo de total a pagar"
       ],
       "url": "https://calculadora-propinas-rho.vercel.app/"
-    },
-    {
-      "name": "Blife Shopping Design",
-      "isActive": true,
-      "description": "Es una pagina de prueba de una tienda que vende productos de para la salud, Vitaminas, Suplementos, etc",
-      "highlights": [
-        "page shopping",
-        "design",
-        "static"
-      ],
-      "url": "https://blife-test-beta.vercel.app/promociones"
     },
     {
       "name": "Buscador de Peliculas | React",
